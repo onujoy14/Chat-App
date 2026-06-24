@@ -1,0 +1,5 @@
+passlib[argon2]
+python-jose[cryptography]
+python-multipart
+pydantic[email]
+​​https://tinyurl.com/SCAAPC3Baseline
